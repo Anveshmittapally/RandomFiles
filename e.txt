@@ -1,7 +1,0 @@
-animals
-plants
-life
-objects
-classes
-ornaments
-jewellery

@@ -1,2 +1,0 @@
-careat[1;5C[1;5C[1;5C[1;5C[1;5C[1;5C[1;5C[C[created a new file for checking the -a-m command.
-overwritten this file with different command.
