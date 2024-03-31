@@ -1,2 +1,0 @@
-first lin in the alpha.txt
-second line in the alpha.txt
